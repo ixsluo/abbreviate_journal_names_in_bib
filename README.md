@@ -31,4 +31,4 @@ Latex提供了很方便的文献引用。你需要把你想引用的文献的信
 
 我又写了extend.py来实现逆转换。后面只需要更新一个，另一个用代码转换即可。
 
-Search abbreviation at [here](https://cassi.cas.org/search.jsp)
+Search abbreviation at [here](https://cassi.cas.org/search.jsp) or [here](https://journal-abbreviations.library.ubc.ca/#J)
