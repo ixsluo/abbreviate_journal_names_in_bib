@@ -9,15 +9,16 @@ if [[ -z $1 ]]; then
     echo "A file must be provided"
     exit 1
 else
-    sed -i "" '/ abstract /d' $1
+    # sed -i "" '/ abstract /d' $1
     sed -i "" '/ eprint /d' $1
     sed -i "" '/ keywords /d' $1
     sed -i "" '/ local-url /d' $1
     sed -i "" '/ note /d' $1
     sed -i "" '/ series /d' $1
     sed -i "" '/ url /d' $1
-    sed -i "" 's/ address / howpublished /g' $1
-    sed -i "" 's/@unpublished/@misc/g' $1
+    # sed -i "" '/ doi /d' $1
+    # sed -i "" 's/ address / howpublished /g' $1
+    # sed -i "" 's/@unpublished/@misc/g' $1
 fi
 
 
