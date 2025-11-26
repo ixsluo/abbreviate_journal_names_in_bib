@@ -3637,6 +3637,7 @@ Comptes Rendus Mecanique = C.R. Mec.
 Comptes Rendus Palevol = C.R. Palevol
 Comptes Rendus Physique = C. R. Phys.
 Computational Materials Science = Comput. Mater. Sci.
+Computational Materials Today = Comput. Mater. Today
 Computational and Mathematical Methods in Medicine = Comput. Math. Methods Med.
 Computational and Structural Biotechnology Journal = Comput. Struct. Biotechnol. J.
 Computational and Theoretical Chemistry = Comput. Theor. Chem.
