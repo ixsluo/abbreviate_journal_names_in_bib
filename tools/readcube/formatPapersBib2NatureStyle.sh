@@ -16,9 +16,9 @@ else
     sed -i "" '/ note /d' $1
     sed -i "" '/ series /d' $1
     sed -i "" '/ url /d' $1
-    # sed -i "" '/ doi /d' $1
-    # sed -i "" 's/ address / howpublished /g' $1
-    # sed -i "" 's/@unpublished/@misc/g' $1
+    sed -i "" '/ doi /d' $1
+    sed -i "" 's/ address / howpublished /g' $1
+    sed -i "" 's/@unpublished/@misc/g' $1
 fi
 
 
